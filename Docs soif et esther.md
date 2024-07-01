@@ -1,7 +1,7 @@
-#Sécurité des applications web 
+# Sécurité des applications web 
 
 
-#  Intro
+##  Intro
 Au sens large, la sécurité c’est l’ensemble des moyens techniques, organisationnels, humains, légaux pour minimiser la surface d'exposition d'une application ou d'un système contre les menaces :
 Passives visant à écouter ou copier des informations illégalement ;
 Actives consistant à altérer des informations ou le bon fonctionnement d’un service.
