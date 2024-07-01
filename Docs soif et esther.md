@@ -279,6 +279,8 @@ En mettant en place ces mesures, vous pouvez protéger vos API contre les risque
 ## Conclusion
 Les API et les applications web partagent de nombreuses menaces en matière de sécurité, mais certaines sont plus spécifiques à l'un ou l'autre en raison de leurs architectures et de leurs modes d'utilisation différents.
 Les principes de sécurité comme la validation des entrées, l'authentification robuste, et le chiffrement des communications restent cruciaux dans les deux cas.
+
+
 Ressources :
 [openclassrooms]
 https://openclassrooms.com/fr/courses/161931-securisez-vos-applications/5702500-identifiez-les-6-aspects-de-la-securite-d-une-application
