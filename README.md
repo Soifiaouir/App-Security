@@ -1,6 +1,4 @@
-A.
-
-# APPROCHES DES MÉTHODES
+# A. APPROCHES DES MÉTHODES
 
 - hashage
 - chiffrement
@@ -66,9 +64,7 @@ PS: dans beaucoup de frameworks, le système de hashage est pré-intégré
 Dans JS, pas de fonction pré-écrite => ajouter le package "décrypte"
 
 
-B.
-
-# LES TYPES DE FAILLE
+# B. LES TYPES DE FAILLE
 
 	1. INJECTIONS SQL
 > le hacker exploite les failles du code SQL (base de données)
@@ -117,9 +113,7 @@ Préventions
 - algorithmes cryptographiques
 
 
-C.
-
-# Cas des APIs
+# C. Cas des APIs
 
 Interfaces logicielles : une API représente un contrat entre différentes applications
 ou composants logiciels, permettant :
