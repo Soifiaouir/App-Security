@@ -92,7 +92,7 @@ Récupérer des cookies (non HTTP) et le contenu du localStorage
 Rediriger vers un site de phishing ou déclencher le téléchargement de virus
 
 3. Failles CSRF (Cross-Site Request Forgery)
-attaques par requête intersites
+- attaques par requête intersites
 Faire exécuter des actions indésirables à des utilisateurs authentifiés:
 > changement de mdp
 > suppression de compte
@@ -107,8 +107,7 @@ Axes de sécurité :
 pour vérifier l'authenticité des requêtes
 
 4. Attaques temporelles (attaques par chronométrage)
-Techniques pour déduire des informations sensibles en
-mesurant le temps que prend une opération
+- Techniques pour déduire des informations sensibles en mesurant le temps que prend une opération
 - l’attaquant n’a pas besoin d’accès aux données
 
 Préventions
@@ -141,43 +140,43 @@ ressources: https://www.akamai.com/fr/glossary/what-are-api-security-risks
         https://chatgpt.com
 
 # Améliorer la Sécurité des APIs
-Authentification Robuste
-Contrôle d’Accès Granulaire
-Chiffrement des Communications
-Validation des Entrées
-Limitation des Taux de Requête
-Utilisation des API Keys
-Surveillance et Journalisation
-Gestion des Versions
-Politique de CORS (Cross-Origin Resource Sharing)
-Sécurité des Données Sensibles
-Gestion des Erreurs
-Tests de Sécurité Réguliers
-Mises à Jour et Patching
+- Authentification Robuste
+- Contrôle d’Accès Granulaire
+- Chiffrement des Communications
+- Validation des Entrées
+- Limitation des Taux de Requête
+- Utilisation des API Keys
+- Surveillance et Journalisation
+- Gestion des Versions
+- Politique de CORS (Cross-Origin Resource Sharing)
+- Sécurité des Données Sensibles
+- Gestion des Erreurs
+- Tests de Sécurité Réguliers
+- Mises à Jour et Patching
 
 # Menaces auxquelles sont confrontées les applications web et les APIs
-Injection SQL
-Cross-Site Scripting (XSS)
-Cross-Site Request Forgery (CSRF)
-Man-in-the-Middle (MitM) Attacks
-Attaques par Déni de Service (DoS/DDoS)
-Exposition des Données Sensibles
-Injections de Commandes (Command Injection)
-Vulnérabilités de Sécurité (Bibliothèques et Dépendances)
-Manipulation des paramètres d'URL
-Utilisation malveillante des Fonctionnalités (Abus)
-Fuite d'Informations (Leakage)
-Faiblesse dans la Gestion des Sessions et des Cookies
-Utilisation de Composants non-sécurisés
+- Injection SQL
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- Man-in-the-Middle (MitM) Attacks
+- Attaques par Déni de Service (DoS/DDoS)
+- Exposition des Données Sensibles
+- Injections de Commandes (Command Injection)
+- Vulnérabilités de Sécurité (Bibliothèques et Dépendances)
+- Manipulation des paramètres d'URL
+- Utilisation malveillante des Fonctionnalités (Abus)
+- Fuite d'Informations (Leakage)
+- Faiblesse dans la Gestion des Sessions et des Cookies
+- Utilisation de Composants non-sécurisés
 
 # Approches pour la sécurisation
-Authentification et Gestion des Sessions
-Contrôle d'Accès (RBAC - Role-Based Access Control)
-Chiffrement des Données (en transit et au repos)
-Validation et Assainissement des Entrées
-Protection contre les Attaques (SQL Injection, XSS, CSRF, DoS)
-Utilisation de Pare-feu d'Application Web (WAF)
-Gestion des Vulnérabilités et Tests de Sécurité
-Sécurité des APIs 
-Surveillance et Journalisation des Activités
-Formation et Sensibilisation à la Sécurité
+- Authentification et Gestion des Sessions
+- Contrôle d'Accès (RBAC - Role-Based Access Control)
+- Chiffrement des Données (en transit et au repos)
+- Validation et Assainissement des Entrées
+- Protection contre les Attaques (SQL Injection, XSS, CSRF, DoS)
+- Utilisation de Pare-feu d'Application Web (WAF)
+- Gestion des Vulnérabilités et Tests de Sécurité
+- Sécurité des APIs 
+- Surveillance et Journalisation des Activités
+- Formation et Sensibilisation à la Sécurité
