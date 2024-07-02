@@ -1,5 +1,6 @@
 A.
-#APPROCHES DES MÉTHODES
+
+# APPROCHES DES MÉTHODES
 
 - hashage
 - chiffrement
@@ -66,7 +67,8 @@ Dans JS, pas de fonction pré-écrite => ajouter le package "décrypte"
 
 
 B.
-#LES TYPES DE FAILLE
+
+# LES TYPES DE FAILLE
 
 	1. INJECTIONS SQL
 > le hacker exploite les failles du code SQL (base de données)
@@ -117,7 +119,8 @@ Préventions
 
 
 C.
-#Cas des APIs
+
+# Cas des APIs
 
 Interfaces logicielles : une API représente un contrat entre différentes applications
 ou composants logiciels, permettant :
@@ -137,7 +140,7 @@ Types d'attaque: injection, MITM (machine-in-the-middle), DDoS (pour submerger l
 ressources: https://www.akamai.com/fr/glossary/what-are-api-security-risks
         https://chatgpt.com
 
-#Améliorer la Sécurité des APIs
+# Améliorer la Sécurité des APIs
 Authentification Robuste
 Contrôle d’Accès Granulaire
 Chiffrement des Communications
@@ -152,7 +155,7 @@ Gestion des Erreurs
 Tests de Sécurité Réguliers
 Mises à Jour et Patching
 
-#Menaces auxquelles sont confrontées les applications web et les APIs
+# Menaces auxquelles sont confrontées les applications web et les APIs
 Injection SQL
 Cross-Site Scripting (XSS)
 Cross-Site Request Forgery (CSRF)
@@ -167,7 +170,7 @@ Fuite d'Informations (Leakage)
 Faiblesse dans la Gestion des Sessions et des Cookies
 Utilisation de Composants non-sécurisés
 
-#Approches pour la sécurisation
+# Approches pour la sécurisation
 Authentification et Gestion des Sessions
 Contrôle d'Accès (RBAC - Role-Based Access Control)
 Chiffrement des Données (en transit et au repos)
